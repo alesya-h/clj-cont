@@ -252,6 +252,14 @@ The original Java implementation used `ScopedValue` (preview feature) for passin
 - Is more idiomatic in Clojure
 - Provides similar scoped binding semantics
 
+### Acknowledgements
+
+This Clojure library is based on the code from the following Java gist: https://gist.github.com/thomasdarimont/bd22bbce165334dc7fa5ccf28c589414
+
+### AI disclosure
+
+OpenCode and Anthropic Claude Opus 4.5 were used during work on this library.
+
 ## License
 
 EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0
